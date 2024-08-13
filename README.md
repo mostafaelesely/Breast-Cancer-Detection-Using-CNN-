@@ -66,8 +66,6 @@ The model is evaluated on the test dataset, achieving the following metrics:
 - **Test Accuracy**: 92.92%
 - **Classification Report**: Precision, recall, and F1-score for each class.
 - **Confusion Matrix**: Visual representation of the model's performance on each class.
-![image](https://github.com/user-attachments/assets/e89fb9b4-4c56-478e-8ad8-ea92d4a02562)
-
 
 ### Classification Report
 
@@ -85,7 +83,7 @@ weighted avg       0.93      0.93      0.93       678
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/60b1e4cb-ba1e-4d52-b46a-90ddb0314a72)
 
 ## Example Usage
 
